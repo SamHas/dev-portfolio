@@ -113,7 +113,7 @@
       "area": "Software Engineering",
       "studyType": "Master",
       "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
+      "endDate": "2024-06-01",
       "score": "3.9",
       "courses": [
         "SE201 - Advanced Software Development",
@@ -121,20 +121,24 @@
       ]
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
+      "institution": "Abdellah Ibrahim high school",
+      "url": "",
+      "area": "Physical Sciences",
+      "studyType": "",
+      "startDate": "2019-09-01",
+      "endDate": "2020-06-01",
       "score": "3.7",
       "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+        ]
     }
   ],
   "certificates": [
+    {
+      "name": "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
+      "date": "2025-07-31",
+      "issuer": "Oracle University",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
     {
       "name": "Full Stack Web Development",
       "date": "2023-05-01",
