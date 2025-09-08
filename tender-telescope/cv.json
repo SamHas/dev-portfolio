@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Aissam El Hasnaoui",
-    "label": "Junior Full Stack Developer",
+    "label": "Full Stack Developer",
     "image": "/me_avatar.jpg",
     "email": "elhasnaoui.aissam@gmail.com",
     "phone": "+212642517070",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "Currently a student at the Faculty of Science , Ibn Tofail University, I am a passionate and dedicated full stack developer with a strong interest in building web applications. I am currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "default",
     "location": {
       "address": "",
@@ -77,7 +77,8 @@
       ],
       "skills": [
         "HTML",
-        "CSS"
+        "CSS",
+        "Angular"
       ]
     }
   ],
@@ -109,9 +110,9 @@
     },
     {
       "institution": "Faculty of Science and Technology, Cadi Ayyad University",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
+      "url": "https://www.fstg-marrakech.ac.ma/FST/",
+      "area": "Bachelor of Science and Techniques in Distributed computing systems",
+      "studyType": "Bachelor",
       "startDate": "2020-09-01",
       "endDate": "2024-06-01",
       "score": "3.9",
