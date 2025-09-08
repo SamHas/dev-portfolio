@@ -10,20 +10,20 @@
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "40000",
+      "city": "Marrakech",
+      "countryCode": "MA",
+      "region": "Morocco"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
+        "username": "Aissam El Hasnaoui",
         "url": "https://www.linkedin.com/in/aissam-el-hasnaoui-165a86221/"
       },
       {
         "network": "X",
-        "username": "john-doe",
+        "username": "Aissam El Hasnaoui",
         "url": "https://x.com/john-doe"
       },
       {
@@ -55,9 +55,12 @@
         "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
       "skills": [
-        "React",
+        "Angular",
         "Tailwind",
-        "Spring"
+        "Springboot",
+        "GitHub",
+        "Bootstrap",
+        "MySQL"
       ]
     },
     {
@@ -93,20 +96,19 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "institution": "Faculty of Science, Ibn Tofail University",
+      "url": "https://fs.uit.ac.ma/",
+      "area": "Master degree in Computer Science and Artificial Intelligence",
+      "studyType": "Master",
+      "startDate": "2024-09-01",
+      "endDate": "present",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
       ]
     },
     {
-      "institution": "Tech Institute",
+      "institution": "Faculty of Science and Technology, Cadi Ayyad University",
       "url": "https://techinstitute.edu",
       "area": "Software Engineering",
       "studyType": "Master",
@@ -264,6 +266,31 @@
         "JavaScript Library",
         "UI"
       ]
+    },
+    {
+      "name": "Spring boot",
+      "level": "Intermediate",
+      "keywords": ["Backend", "Java", "Spring Framework"]
+    },
+    {
+      "name": "Angular",
+      "level": "Intermediate",
+      "keywords": ["Frontend", "Web Development", "TypeScript"]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": ["Backend", "Programming Language", "OOP"]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermediate",
+      "keywords": ["Frontend", "CSS Framework", "Responsive Design"]
+    },
+    {
+      "name": "SQL",
+      "level": "Intermediate",
+      "keywords": ["Database", "Backend", "Query Language"]
     }
   ],
   "languages": [

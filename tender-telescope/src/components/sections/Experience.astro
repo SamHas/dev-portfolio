@@ -8,7 +8,7 @@ import JavaScript from "@/icons/javascript.astro"
 import TypeScript from "@/icons/type.astro"
 import React from "@/icons/react.astro"
 import Node from "@/icons/node.astro"
-import MySQL from "@/icons/sql.astro"
+import MySQLIcon from "@/icons/mysql.astro";
 import Git from "@/icons/git.astro"
 import GitHub from "@/icons/GitHub.astro"
 import Tailwind from "@/icons/tailwind.astro"
@@ -17,6 +17,10 @@ import Swift from "@/icons/swift.astro"
 import SwiftUI from "@/icons/swiftui.astro"
 import Kotlin from "@/icons/kotlin.astro"
 import Flutter from "@/icons/flutter.astro"
+import Spring from "@/icons/spring.astro";
+import Springboot from "@/icons/springboot.astro";
+import Angular from "@/icons/angular.astro";
+import Bootstrap from "@/icons/bootstrap.astro";
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -25,7 +29,7 @@ const SKILLS_ICONS: Record<string, any> = {
   TypeScript,
   React,
   Node,
-  MySQL,
+  MySQL: MySQLIcon,
   Git,
   GitHub,
   Next,
@@ -34,7 +38,13 @@ const SKILLS_ICONS: Record<string, any> = {
   SwiftUI,
   Kotlin,
   Flutter,
-}
+  Spring,
+  Springboot,
+  "Spring boot": Springboot,
+  "Spring Boot": Springboot,
+  Angular,
+  Bootstrap,
+};
 ---
 <Section className={Astro.props.className} title="Experience">
   <ul class="flex flex-col">
