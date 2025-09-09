@@ -2,7 +2,7 @@
   "basics": {
     "name": "Aissam El Hasnaoui",
     "label": "Full Stack Developer",
-    "image": "/me_avatar.jpg",
+    "image": "public/me-bg-grey.jpg",
     "email": "elhasnaoui.aissam@gmail.com",
     "phone": "+212642517070",
     "url": "https://johndoe.dev",
@@ -138,7 +138,7 @@
       "name": "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
       "date": "2025-07-31",
       "issuer": "Oracle University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "url": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=6E36577CD47FD9A0878B73628B4DE7C4AD1A47018A17B7048627EB3A6C792FC5"
     },
     {
       "name": "Full Stack Web Development",
